@@ -34,7 +34,7 @@ const Contact = () => {
             <a href="mailto:correo@corre.cl">Enviame un mensaje</a>
           </article>
         </div>
-        {/* TODO Formik */}
+        {/* TODO Formik o EmailJS*/}
         <form action="">
           <input type="text" name="name" placeholder="Nombre" required />
           <input type="email" name="email" placeholder="Email" required />
